@@ -187,3 +187,4 @@ Foi utilizada inteligência artificial como apoio ao desenvolvimento do projeto,
 Uma sugestão aceita foi a separação da aplicação em `routes`, `controllers` e `services`, pois essa organização atende ao requisito de arquitetura em camadas e facilita a localização das responsabilidades.
 
 O código foi revisado e testado pelo aluno, que permanece responsável por compreender seu funcionamento e realizar as correções necessárias.
+"# ProjetoTasiii" 
